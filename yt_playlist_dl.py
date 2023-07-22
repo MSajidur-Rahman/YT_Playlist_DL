@@ -1,7 +1,7 @@
 import os
 
 for song in os.listdir({YOUR PATH}):
-    song = f"{path}\{song}"
+    song = f"{YOUR PATH}\{song}"
     os.rename(song,song[:-4]+"mp3")
     
 

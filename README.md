@@ -1,6 +1,6 @@
 # YT_Playlist_DL
 
-## youtube-dlp is waiting on official an fix for major bug, bug was fixed on master branch
+## youtube-dlp is waiting on an official fix for major bug, bug was fixed on master branch
 ## I didn't want to download ffmpeg to convert
 
 Steps:

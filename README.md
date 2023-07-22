@@ -8,8 +8,8 @@ Steps:
 
 - create a folder and copy its path
 
-- replace all instances of "{YOUR_PATH}" (line 3,4, and 8) with copied path
-  - repeat for "{YOUR PLAYLIST URL}" (line 8) with your YT platlist (make sure its not private)
+- replace all instances of "{YOUR_PATH}" (line 3 and 10) with copied path
+  - repeat for "{YOUR PLAYLIST URL}" (line 10) with your YT platlist (make sure its not private)
 
-- copy line 8 without the "#" at the beginning and run it in your CLI
+- copy line 10 without the "#" at the beginning and run it in your CLI
 - after completion, run the python code to convert all the .webm files to mp3
